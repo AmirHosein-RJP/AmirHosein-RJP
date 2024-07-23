@@ -44,11 +44,12 @@
 #
 
 
-<p width="383px"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=amirhosein-rjp&" alt="amirhosein-rjp" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amirhosein-rjp&" alt="amirhosein-rjp" /></p>
 
+<br>
 
-<p width="383px">&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=amirhosein-rjp&show_icons=true&locale=en" alt="amirhosein-rjp" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amirhosein-rjp&show_icons=true&locale=en" alt="amirhosein-rjp" /></p>
 
-<br><br><br><br><br><br><br>
+<br>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amirhosein-rjp&show_icons=true&locale=en&layout=compact" alt="amirhosein-rjp" /></p>
