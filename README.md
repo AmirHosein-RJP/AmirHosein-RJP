@@ -1,10 +1,10 @@
-![MasterHead](![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/82f96625-9ceb-4449-9cd0-48f3885962bf)​)
+![Banner](coding.gif)
 
 <h1 align="center">Hi 👋, I'm Amir Hosein</h1>
 <h3 align="center">Junior Front-End Developer</h3>
 
 
-<img src="![animated-working-computer-mcf5woa92v8rxgim](https://github.com/user-attachments/assets/447c88e2-65d3-4d64-9718-dc2dba3df4e3)" alt="coding" align="right" width="400px">
+<img src="setup.gif" alt="coding" align="right" width="400px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirhosein-rjp&label=Profile%20views&color=0e75b6&style=flat" alt="amirhosein-rjp" /> </p>
 
