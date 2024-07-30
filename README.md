@@ -1,4 +1,4 @@
-![Banner](coding.gif)
+![41fe5dbe30a570621741bb93163dcf7d](https://github.com/user-attachments/assets/c0cbee28-be75-427a-a425-1d69f09b7fd2)
 
 <h1 align="center">Amir Hosein Rajabpoor</h1>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=D611F7&width=435&lines=Junior+Front-End+Developer" alt="Typing SVG" /></a></h3>
@@ -8,7 +8,7 @@
 #
 
 <br><br>
-<img src="setup.gif" alt="coding" align="right" width="400px">
+<img src="coding.gif" alt="coding" align="right" width="400px">
 
 
 
