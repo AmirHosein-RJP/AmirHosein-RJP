@@ -7,26 +7,22 @@
 
 #
 
-<br><br>
+<br>
 <img src="coding.gif" alt="coding" align="right" width="400px">
-
-
 
 - 🌱 I’m currently learning **HTML, CSS, Javascript & React**
 
-  <br>
 
 - 👨‍💻 All of my projects are available at [https://github.com/AmirHosein-RJP](https://github.com/AmirHosein-RJP)
 
-  <br>
+<br>
 
 - 💬 Ask me about **Programming Stuff**
 
-  <br>
 
 - 📫 How to reach me **RP.amir2001@gmail.com**
 
-<br>
+<br><br><br>
 
 #
 
